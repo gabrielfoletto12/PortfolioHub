@@ -2,10 +2,12 @@
 **Gabriel Foletto Lorenzi - Meu Portfólio Digital**
 Bem-vindo(a) ao meu PortfolioHUB, uma plataforma centralizada que criei para apresentar meus projetos e habilidades. Meu objetivo é demonstrar meu potencial e minha paixão por tecnologia, empreendedorismo e inovação, buscando oportunidades no mercado de trabalho.
 
-**Sobre Mim**
+**Sobre Mim:**
+
 Olá! Meu nome é Gabriel Foletto Lorenzi, tenho 18 anos e sou um entusiasta dedicado de tecnologia e empreendedorismo. Atualmente, estou cursando Ciência da Computação no CEUB. Sou movido por desafios e busco constantemente novas experiências e conhecimentos que me aproximem do mercado de tecnologia, com a meta de me destacar. Acredito no poder da dedicação, do aprendizado contínuo e em uma visão empreendedora para contribuir significativamente em projetos inovadores, tanto no aspecto técnico quanto estratégico.
 
-**Minhas Habilidades**
+**Minhas Habilidades:**
+
 **Programação**: PHP, JavaScript, Python, HTML e CSS.
 
 **Gestão:** Gestão de pessoas e criação de projetos inovadores.
