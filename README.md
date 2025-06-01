@@ -6,12 +6,11 @@ Bem-vindo(a) ao meu PortfolioHUB, uma plataforma centralizada que criei para apr
 Olá! Meu nome é Gabriel Foletto Lorenzi, tenho 18 anos e sou um entusiasta dedicado de tecnologia e empreendedorismo. Atualmente, estou cursando Ciência da Computação no CEUB. Sou movido por desafios e busco constantemente novas experiências e conhecimentos que me aproximem do mercado de tecnologia, com a meta de me destacar. Acredito no poder da dedicação, do aprendizado contínuo e em uma visão empreendedora para contribuir significativamente em projetos inovadores, tanto no aspecto técnico quanto estratégico.
 
 **Minhas Habilidades**
-Minha jornada na programação começou há cerca de 4 anos e me permitiu criar projetos únicos que fazem a diferença na vida das pessoas. Domino diversas linguagens e ferramentas:
+**Programação**: PHP, JavaScript, Python, HTML e CSS.
+**Gestão:** Gestão de pessoas e criação de projetos inovadores.
+**Marketing:** Interesse em marketing pelo aprendizado no tráfego pago (MetaADS - Facebook ADS), vendo o potencial de gerar grandes retornos financeiros.
 
-**Programação: PHP, JavaScript, Python, HTML e CSS.**
-Gestão: Gestão de pessoas e criação de projetos inovadores.
-Marketing: Interesse em marketing pelo aprendizado no tráfego pago (MetaADS - Facebook ADS), vendo o potencial de gerar grandes retornos financeiros.
-Projetos em Destaque
+**Projetos em Destaque**
 Aqui você pode conhecer alguns dos meus principais trabalhos:
 
 **1. Site Barber Timer**
