@@ -1,5 +1,6 @@
 # PortfolioHub
 **Gabriel Foletto Lorenzi - Meu Portfólio Digital**
+
 Bem-vindo(a) ao meu PortfolioHUB, uma plataforma centralizada que criei para apresentar meus projetos e habilidades. Meu objetivo é demonstrar meu potencial e minha paixão por tecnologia, empreendedorismo e inovação, buscando oportunidades no mercado de trabalho.
 
 **Sobre Mim:**
