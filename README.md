@@ -17,7 +17,9 @@ Aqui você pode conhecer alguns dos meus principais trabalhos:
 Este foi um dos meus principais projetos durante o curso de Programação Web. Desenvolvi um sistema de agendamento para barbearias que não exigisse login ou a necessidade de baixar um aplicativo. O site apresenta informações sobre os serviços da barbearia e seus diferenciais, tornando o agendamento simples e direto.
 
 Apresentação: https://docs.google.com/presentation/d/1HBKgx2gQfkXATp-uG_S2zRghs-xKluFUL-Z9_x1UN3k/edit?usp=sharing
+
 Currículo: https://docs.google.com/document/d/1NMiasdl9yDwP7E85T6WBCtP4KWe9tsp8uOGxX3NpYao/edit?usp=sharing
+
 Documento PortifólioHub: https://docs.google.com/document/d/1ZHMB09vPQRRRq8609Zm_7uH_IrTKE0Jfns0Q-MJGrzg/edit?usp=sharing
 
 **Contato**
