@@ -7,7 +7,9 @@ Olá! Meu nome é Gabriel Foletto Lorenzi, tenho 18 anos e sou um entusiasta ded
 
 **Minhas Habilidades**
 **Programação**: PHP, JavaScript, Python, HTML e CSS.
+
 **Gestão:** Gestão de pessoas e criação de projetos inovadores.
+
 **Marketing:** Interesse em marketing pelo aprendizado no tráfego pago (MetaADS - Facebook ADS), vendo o potencial de gerar grandes retornos financeiros.
 
 **Projetos em Destaque**
@@ -15,6 +17,8 @@ Aqui você pode conhecer alguns dos meus principais trabalhos:
 
 **1. Site Barber Timer**
 Este foi um dos meus principais projetos durante o curso de Programação Web. Desenvolvi um sistema de agendamento para barbearias que não exigisse login ou a necessidade de baixar um aplicativo. O site apresenta informações sobre os serviços da barbearia e seus diferenciais, tornando o agendamento simples e direto.
+
+Linkedin: https://www.linkedin.com/in/gabriel-foletto-bbb501322/
 
 Apresentação: https://docs.google.com/presentation/d/1HBKgx2gQfkXATp-uG_S2zRghs-xKluFUL-Z9_x1UN3k/edit?usp=sharing
 
