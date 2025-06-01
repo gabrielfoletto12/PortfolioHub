@@ -1,25 +1,27 @@
 # PortfolioHub
-PortfolioHUB - Gabriel Foletto Lorenzi
-Este repositório serve como a base para a criação e implantação do meu PortfolioHUB, uma plataforma centralizada para gerenciar e exibir meus projetos digitais. Desenvolvido para o "Desafio Final: Implantação PortfolioHUB + IA GEMINI" do Bootcamp I do CEUB, o projeto visa integrar ferramentas do Google Workspace, GitHub e garantir segurança, com o apoio do Google Gemini.
+**Gabriel Foletto Lorenzi - Meu Portfólio Digital**
+Bem-vindo(a) ao meu PortfolioHUB, uma plataforma centralizada que criei para apresentar meus projetos e habilidades. Meu objetivo é demonstrar meu potencial e minha paixão por tecnologia, empreendedorismo e inovação, buscando oportunidades no mercado de trabalho.
 
+**Sobre Mim**
+Olá! Meu nome é Gabriel Foletto Lorenzi, tenho 18 anos e sou um entusiasta dedicado de tecnologia e empreendedorismo. Atualmente, estou cursando Ciência da Computação no CEUB. Sou movido por desafios e busco constantemente novas experiências e conhecimentos que me aproximem do mercado de tecnologia, com a meta de me destacar. Acredito no poder da dedicação, do aprendizado contínuo e em uma visão empreendedora para contribuir significativamente em projetos inovadores, tanto no aspecto técnico quanto estratégico.
 
-Sobre Mim
-Sou Gabriel Foletto Lorenzi, estudante de Ciência da Computação no CEUB, entusiasta de tecnologia e empreendedorismo. Busco constantemente expandir meus conhecimentos e habilidades para me destacar no mercado, contribuindo com projetos inovadores tanto técnica quanto estrategicamente.
+**Minhas Habilidades**
+Minha jornada na programação começou há cerca de 4 anos e me permitiu criar projetos únicos que fazem a diferença na vida das pessoas. Domino diversas linguagens e ferramentas:
 
-Objetivo
-O PortfolioHUB centralizará e apresentará meus trabalhos, demonstrando minhas habilidades em programação (PHP, JavaScript, Python, HTML, CSS), gestão de pessoas e criação de projetos inovadores. Além disso, servirá como um ambiente robusto para o gerenciamento seguro de meu portfólio digital.
+**Programação: PHP, JavaScript, Python, HTML e CSS.**
+Gestão: Gestão de pessoas e criação de projetos inovadores.
+Marketing: Interesse em marketing pelo aprendizado no tráfego pago (MetaADS - Facebook ADS), vendo o potencial de gerar grandes retornos financeiros.
+Projetos em Destaque
+Aqui você pode conhecer alguns dos meus principais trabalhos:
 
-Tecnologias e Integrações
-A implementação do PortfolioHUB utiliza:
+**1. Site Barber Timer**
+Este foi um dos meus principais projetos durante o curso de Programação Web. Desenvolvi um sistema de agendamento para barbearias que não exigisse login ou a necessidade de baixar um aplicativo. O site apresenta informações sobre os serviços da barbearia e seus diferenciais, tornando o agendamento simples e direto.
 
-Google Workspace: Para colaboração, gestão de usuários e segurança (incluindo Google Drive para armazenamento e Google Calendar para sincronização).
+Apresentação: https://docs.google.com/presentation/d/1HBKgx2gQfkXATp-uG_S2zRghs-xKluFUL-Z9_x1UN3k/edit?usp=sharing
+Currículo: https://docs.google.com/document/d/1NMiasdl9yDwP7E85T6WBCtP4KWe9tsp8uOGxX3NpYao/edit?usp=sharing
+Documento PortifólioHub: https://docs.google.com/document/d/1ZHMB09vPQRRRq8609Zm_7uH_IrTKE0Jfns0Q-MJGrzg/edit?usp=sharing
 
-Git & GitHub: Para controle de versão e hospedagem do código, facilitando o compartilhamento e a colaboração.
-
-Google Gemini: Como ferramenta de apoio e guia em todo o processo de implantação.
-
-
-
-
-Projeto em Destaque
-Site Barber Timer: Um sistema de agendamento online para barbearias, sem necessidade de login ou app, desenvolvido para apresentar serviços e diferenciais.
+**Contato**
+Estou aberto a novas oportunidades e desafios. Sinta-se à vontade para entrar em contato:
+Email: gabrielfolettoloreni2@gmail.com
+Telefone: 61996922504
